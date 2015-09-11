@@ -1,0 +1,37 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "scottybrackett@gmail.com",
+    "longName": "TIME_WEATHER",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/DIN Bold.ttf",
+                "name": "portal_48",
+                "type": "font"
+            },
+            {
+                "file": "images/popular-portal-wallpaper-logo-980x551 (Custom).png",
+                "name": "portal",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "TIME_WEATHER",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "66a1e271-1c08-463c-ae5a-df468c62af9b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
